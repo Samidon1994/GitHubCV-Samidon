@@ -13,10 +13,10 @@ A dedicated educator with a passion for fostering learning and growth. At 30 yea
 
 ## Education
 **Bachelor of Arts (General) in Social Science faculty**
-•	University of Sri Jayewardenepura, Sri Lanka.
-•	Graduated in 26th February, 2018.
-•	By obtaining GPA 2.82
-•	Relevant Course works: Business Statics, Management Information Technology and Economics.
+University of Sri Jayewardenepura, Sri Lanka.
+Graduated in 26th February, 2018.
+By obtaining GPA 2.82.
+Relevant Course works: Business Statics, Management Information Technology and Economics.
 
 **Certificate Course in Human Resource Management**
 Institute of Personal Management, Nugegoda, Sri Lanka.
@@ -57,6 +57,6 @@ Sinhala & English
 - **Description**: I have done my First ever GIT HUB Project & here it is .
 - **GitHub Repo**: [SamidonGITExercise](https://github.com/Samidon1994/SamidonGITExercises)
 
-**Summary**
+## Summary
 
 I am a passionate and dedicated educator with a Bachelor of Arts degree from the University of Jayawardhanapura. With over Four (04) years of experience in teaching, I excel at creating engaging learning environments and fostering student development. Currently, I am enhancing my skills through the Edunation Pathway to Finland course, aiming to expand my expertise and impact in the field of Education & Computer Engineering . I am committed to continuous learning and bringing innovative teaching methods to the classroom to inspire and empower the future.
