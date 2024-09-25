@@ -1,5 +1,6 @@
 # GitHubCV-Samidon
 # Imihami Mudiyanselage Sanduni Vindya Jamini Samidon
+![Profile Photo](./images/profile.jpg)
 
 ## Contact Information
 - **Email**: samidonsanduni@gmail.com
