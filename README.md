@@ -3,6 +3,7 @@
 
 ## Contact Information
 - **Email**: samidonsanduni@gmail.com
+- **Telephone**: +9472 740 8304
 - **GitHub**: [github.com/Samidon1994](https://github.com/Samidon1994)
 
 ## Summary
