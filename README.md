@@ -1,5 +1,6 @@
 # GitHubCV-Samidon
 # Imihami Mudiyanselage Sanduni Vindya Jamini Samidon
+git commit -m "Add profile photo to resume"
 Add profile photo
 ![Profile Photo](./images/profile.jpg)
 
