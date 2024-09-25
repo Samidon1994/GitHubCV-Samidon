@@ -4,6 +4,7 @@
 
 ## Contact Information
 - **Email**: samidonsanduni@gmail.com
+- **Address**: 73/1, Oshan Villa, Malpitiya, Boyagane, Kurunegala, 60000, Sri Lanka
 - **Telephone**: +9472 740 8304
 - **GitHub**: [github.com/Samidon1994](https://github.com/Samidon1994)
 
